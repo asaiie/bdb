@@ -3,6 +3,12 @@ NFL Big Data Bowl 2027
 
 Amit Erraguntla & Zubin Oommen
 
+## Project context
+
+- [Competition theme and questions](docs/competition-theme.md)
+- [Dataset overview and data dictionary](docs/datasets.md)
+- [Agent context and workflow](AGENTS.md)
+
 ## Setup
 
 Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run
